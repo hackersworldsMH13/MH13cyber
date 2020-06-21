@@ -23,4 +23,8 @@ chmod +x *
 
 ls
 
-python2 MH13cyber.py
+python2 cyber.py
+
+Username = "MH13CYBER"
+
+Password = "MADDY2020"
